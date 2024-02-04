@@ -1,4 +1,4 @@
-# Extracting-keywords-from-Google-trends
+# Extracting-keywords-And-Analysis-from-Google-trends
 
 It uses google trends API. All the data is extracted and utilized using Google Trend API.
 A  keyword is provided to extract all the related keywords and clean it afterword.
